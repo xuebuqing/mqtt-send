@@ -1,0 +1,6 @@
+broker: "tcp://127.0.0.1:1883"
+clientid: "1"
+passwd: abcdef
+qos: 0
+usr: "admin"
+switched: false
