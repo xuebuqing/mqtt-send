@@ -3,8 +3,8 @@ package crypto
 import (
 	"encoding/base64"
 
-	"github.com/xuebuqing/ctrlapp/pkg/crypto/descbc"
-	"github.com/xuebuqing/ctrlapp/pkg/crypto/rsa"
+	"github.com/xuebuqing/mqtt-send/pkg/crypto/descbc"
+	"github.com/xuebuqing/mqtt-send/pkg/crypto/rsa"
 )
 
 const (

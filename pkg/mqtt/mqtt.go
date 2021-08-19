@@ -10,7 +10,7 @@ import (
 	//"k8s.io/klog/v2"
 
 	paho "github.com/eclipse/paho.mqtt.golang"
-	"github.com/xuebuqing/ctrlapp/pkg/crypto"
+	"github.com/xuebuqing/mqtt-send/pkg/crypto"
 )
 
 /*

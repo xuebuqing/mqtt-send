@@ -9,7 +9,7 @@ import (
 	"log"
 	"time"
 
-	mqtt "github.com/xuebuqing/ctrlapp/pkg/mqtt"
+	mqtt "github.com/xuebuqing/mqtt-send/pkg/mqtt"
 	"gopkg.in/yaml.v2"
 )
 
