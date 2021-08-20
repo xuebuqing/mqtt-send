@@ -16,6 +16,10 @@ import (
 /*
 * Will message.
  */
+/*
+**read config.yaml
+ */
+
 type WillMessage struct {
 	Topic    string
 	Payload  []byte
